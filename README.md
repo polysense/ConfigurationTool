@@ -27,3 +27,12 @@ When downloading the Configuration Tool from the official website, some machines
 * Step 2: Turn off real-time protection and cloud provided protection. Click "Add or Remove Exclusions" to set the desktop folder (or other folder) as an exclusion item
 * Step 3: Download the configuration tool from the official website and copy it to the folder where the exclusion item was added in the previous step.
 * Step 4: reopen the real-time protection and cloud provided protection in step 1.
+
+
+# Starting with v2.0.0, the v1.0.0. x configuration is no longer compatible
+ 
+In particular:
+* As the product code is significantly adjusted, the upper computer cannot be upward compatible, so the large version 2.0 is started
+* For ex-factory equipment before January 1, 2016, use<=v1.0.40 configuration tool
+* Use v2.0.X after 1st January 026
+* Sensor added subsequently, only version v2.0.0. x. updated
